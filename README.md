@@ -1,0 +1,2 @@
+# InheritanceExampleWithJava
+ basic inheritance example
